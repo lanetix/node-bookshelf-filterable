@@ -1,0 +1,19 @@
+{
+  "name": "bookshelf-filterable",
+  "version": "1.0.0",
+  "description": "A Bookshelf.js plugin that makes it easier to filter, sort, and page through collections via your REST API.",
+  "author": "Lanetix <engineering@lanetix.com> (https://github.com/lanetix/)",
+  "homepage": "https://github.com/lanetix/node-bookshelf-filterable",
+  "bugs": "https://github.com/lanetix/node-bookshelf-filterable",
+  "repository": "git://github.com/lanetix/node-bookshelf-filterable.git",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "main": "./index.js",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
+}
